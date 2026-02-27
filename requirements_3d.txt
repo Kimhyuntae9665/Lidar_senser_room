@@ -1,0 +1,4 @@
+numpy>=1.24
+matplotlib>=3.6
+pyserial>=3.5
+rplidar-roboticia>=0.9.5
